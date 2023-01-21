@@ -7,7 +7,7 @@
 - :framed_picture: I’m really interested in Computer Vision ...
 - 📫 How to reach me: el.honarvar@gmail.com
 
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/efh1371/)](https://www.instagram.com/efh1371)
 
 <!--
 **ElFatemehHonarvar/ElFatemehHonarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
