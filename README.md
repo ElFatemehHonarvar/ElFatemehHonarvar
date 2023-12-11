@@ -1,10 +1,10 @@
 ## Hi 👋
-# Fatemeh Honarvar (Elham)
+# I am Fatemeh Honarvar (Elham)
 
 
 
-- 🌱 I’m currently learning advanced Python, Machine Learning, and Deep Learning ...
-- :framed_picture: I’m really interested in Computer Vision and Natural Language Processing...
+- 🌱 I’m currently learning advanced Advanced NLP ...
+- :framed_picture: I’m really interested in Natural Language Processing and Computer Vision...
 - 📫 How to reach me: el.honarvar@gmail.com
 
 
